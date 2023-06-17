@@ -1,0 +1,16 @@
+.appbar{
+    background-color: #131514 !important;
+    padding: 20px; 
+}
+.logo{
+    height: 70px;
+    width: 120px;
+}
+.navbtn{
+    display: flex;
+    gap: 16px;
+}
+.btn{
+    background-color: #017B96 !important;
+    border-radius: 40px !important;
+}
