@@ -1,5 +1,6 @@
 import React from 'react'
 import { Associate, Blogs, Footer, Landing, Mynavbar, Offers, Services, Success } from './components'
+import "./assets/css/index.css"
 
 const App = () => {
   return  <>
